@@ -1,2 +1,2 @@
-# This Document contains a jupyter notebook which contains all the answers of Data Analysis using Python 
-# This also contains certifications
+# This Documents contains the jupyter notebook which has all the answers of  courses from cognitive classes an initiative of IBM
+# This also contains certifications and badges
